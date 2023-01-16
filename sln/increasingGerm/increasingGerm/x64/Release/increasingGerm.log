@@ -1,0 +1,8 @@
+﻿  increasingGerm.cpp
+C:\Users\82103\codetest\increasingGerm\increasingGerm\increasingGerm.cpp(18,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  코드를 생성하고 있습니다.
+  2 of 5 functions (40.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  increasingGerm.vcxproj -> C:\Users\82103\codetest\increasingGerm\x64\Release\increasingGerm.exe
